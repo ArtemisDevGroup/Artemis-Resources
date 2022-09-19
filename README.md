@@ -1,2 +1,11 @@
 # Artemis-Resources
-The different resources used by Artemis in some way, shape and form.
+The different resources used by Artemis in some way, shape or form.
+
+## Background
+The different background images in the loader.
+
+## Logos
+The different sizes and formats of logotypes.
+
+## Text
+The different sizes, content and configurations of the Artemis font.
