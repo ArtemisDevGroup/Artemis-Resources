@@ -1,3 +1,4 @@
+![Artemis](https://github.com/ArtemisDevGroup/Artemis-Resources/blob/main/Text/ArtemisWithLogo.png)
 # Artemis-Resources
 The different resources used by Artemis in some way, shape or form.
 
